@@ -46,4 +46,3 @@ console.log(a>b && 5 < = b);
 // verificar se b é par ou ímpar usando ternario
 resultado = b % 2 == 0 ? "Par" : "Ímpar"
 
-/// pp
