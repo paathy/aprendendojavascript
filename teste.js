@@ -35,14 +35,16 @@ console.log(n <= x || b != c);
 console.log(!(n <= x || b != c));
 
 // verificar se a é maior que b e a é divisivel por 2
-console.log(a> b && % 2 == 0)
+console.log(a > b % 2 == 0)
 
 //verificar se b é maior igual a a ou b é divisivel por 2 o resultado é 2
- console.log(b<=a || b / 2 == 2)
+ console.log(b<= a || b / 2 == 2)
 
 // verificar se a é maior que b e b maior ou igual a 5
-console.log(a>b && 5 < = b);
+console.log(a> b && b <= 5 );
 
 // verificar se b é par ou ímpar usando ternario
 resultado = b % 2 == 0 ? "Par" : "Ímpar"
+
+
 
